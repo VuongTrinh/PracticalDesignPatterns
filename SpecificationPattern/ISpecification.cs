@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SpecificationPattern
+﻿namespace SpecificationPattern
 {
     public interface ISpecification<T>
     {
